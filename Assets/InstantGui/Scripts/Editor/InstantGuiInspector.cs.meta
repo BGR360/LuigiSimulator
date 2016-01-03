@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6676c15c354e45a478c4046f9f191348
+labels:
+- GUI
+- Interface
+- Editor
+- Graphical
+- User
+- GUIText
+- GUITexture
+- OnGUI
+- Instant
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

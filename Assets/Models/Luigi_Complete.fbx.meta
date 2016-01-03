@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: 6938f4f7dd2d2dc4e9674c42c56979ab
+timeCreated: 1428199412
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Arm Base
+    100002: Arm Clamp
+    100004: Arm Clamp.002
+    100006: Arm End
+    100008: Arm Motor
+    100010: Batteries
+    100012: Block Clamp
+    100014: Cortex
+    100016: Cortex_Holsters
+    100018: Cube.001
+    100020: Cylinder.000
+    100022: Cylinder.001
+    100024: Cylinder.002
+    100026: Cylinder.003
+    100028: Cylinder.004
+    100030: Cylinder.005
+    100032: Cylinder.006
+    100034: Cylinder.007
+    100036: Cylinder.008
+    100038: GearBox
+    100040: Inner Cups
+    100042: Lift_Motor1
+    100044: Lift_Motor2
+    100046: Lift_Motor3
+    100048: Lift_Motor3.001
+    100050: Lift_Stage1
+    100052: Lift_Stage1_sliders
+    100054: Lift_Stage2
+    100056: Lift_Stage2_sliders
+    100058: Lift_Stage3
+    100060: LiftBase
+    100062: LiftBase_sliders
+    100064: //RootNode
+    100066: Motor.000
+    100068: Motor.001
+    100070: Motor.002
+    100072: Motor.003
+    100074: Motor.004
+    100076: Motor.005
+    100078: Motor.006
+    100080: Motor.011
+    100082: Motor.012
+    100084: Motor_L_B
+    100086: Motor_L_F
+    100088: Motor_R_B
+    100090: Motor_R_F
+    100092: Planetary Gear
+    100094: Reservoirs
+    100096: Solenoid
+    100098: Solenoid Metal
+    100100: Solenoid Mount
+    100102: Solenoid Plug
+    100104: TurnTable
+    100106: VexNet
+    400000: Arm Base
+    400002: Arm Clamp
+    400004: Arm Clamp.002
+    400006: Arm End
+    400008: Arm Motor
+    400010: Batteries
+    400012: Block Clamp
+    400014: Cortex
+    400016: Cortex_Holsters
+    400018: Cube.001
+    400020: Cylinder.000
+    400022: Cylinder.001
+    400024: Cylinder.002
+    400026: Cylinder.003
+    400028: Cylinder.004
+    400030: Cylinder.005
+    400032: Cylinder.006
+    400034: Cylinder.007
+    400036: Cylinder.008
+    400038: GearBox
+    400040: Inner Cups
+    400042: Lift_Motor1
+    400044: Lift_Motor2
+    400046: Lift_Motor3
+    400048: Lift_Motor3.001
+    400050: Lift_Stage1
+    400052: Lift_Stage1_sliders
+    400054: Lift_Stage2
+    400056: Lift_Stage2_sliders
+    400058: Lift_Stage3
+    400060: LiftBase
+    400062: LiftBase_sliders
+    400064: //RootNode
+    400066: Motor.000
+    400068: Motor.001
+    400070: Motor.002
+    400072: Motor.003
+    400074: Motor.004
+    400076: Motor.005
+    400078: Motor.006
+    400080: Motor.011
+    400082: Motor.012
+    400084: Motor_L_B
+    400086: Motor_L_F
+    400088: Motor_R_B
+    400090: Motor_R_F
+    400092: Planetary Gear
+    400094: Reservoirs
+    400096: Solenoid
+    400098: Solenoid Metal
+    400100: Solenoid Mount
+    400102: Solenoid Plug
+    400104: TurnTable
+    400106: VexNet
+    2300000: Arm Base
+    2300002: Arm Clamp
+    2300004: Arm Clamp.002
+    2300006: Arm End
+    2300008: Arm Motor
+    2300010: Batteries
+    2300012: Block Clamp
+    2300014: Cortex
+    2300016: Cortex_Holsters
+    2300018: Cube.001
+    2300020: Cylinder.000
+    2300022: Cylinder.001
+    2300024: Cylinder.002
+    2300026: Cylinder.003
+    2300028: Cylinder.004
+    2300030: Cylinder.005
+    2300032: Cylinder.006
+    2300034: Cylinder.007
+    2300036: Cylinder.008
+    2300038: GearBox
+    2300040: Inner Cups
+    2300042: Lift_Motor1
+    2300044: Lift_Motor2
+    2300046: Lift_Motor3
+    2300048: Lift_Motor3.001
+    2300050: Lift_Stage1
+    2300052: Lift_Stage1_sliders
+    2300054: Lift_Stage2
+    2300056: Lift_Stage2_sliders
+    2300058: Lift_Stage3
+    2300060: LiftBase
+    2300062: LiftBase_sliders
+    2300064: //RootNode
+    2300066: Motor.000
+    2300068: Motor.001
+    2300070: Motor.002
+    2300072: Motor.003
+    2300074: Motor.004
+    2300076: Motor.005
+    2300078: Motor.006
+    2300080: Motor.011
+    2300082: Motor.012
+    2300084: Motor_L_B
+    2300086: Motor_L_F
+    2300088: Motor_R_B
+    2300090: Motor_R_F
+    2300092: Planetary Gear
+    2300094: Reservoirs
+    2300096: Solenoid
+    2300098: Solenoid Metal
+    2300100: Solenoid Mount
+    2300102: Solenoid Plug
+    2300104: TurnTable
+    2300106: VexNet
+    3300000: Arm Base
+    3300002: Arm Clamp
+    3300004: Arm Clamp.002
+    3300006: Arm End
+    3300008: Arm Motor
+    3300010: Batteries
+    3300012: Block Clamp
+    3300014: Cortex
+    3300016: Cortex_Holsters
+    3300018: Cube.001
+    3300020: Cylinder.000
+    3300022: Cylinder.001
+    3300024: Cylinder.002
+    3300026: Cylinder.003
+    3300028: Cylinder.004
+    3300030: Cylinder.005
+    3300032: Cylinder.006
+    3300034: Cylinder.007
+    3300036: Cylinder.008
+    3300038: GearBox
+    3300040: Inner Cups
+    3300042: Lift_Motor1
+    3300044: Lift_Motor2
+    3300046: Lift_Motor3
+    3300048: Lift_Motor3.001
+    3300050: Lift_Stage1
+    3300052: Lift_Stage1_sliders
+    3300054: Lift_Stage2
+    3300056: Lift_Stage2_sliders
+    3300058: Lift_Stage3
+    3300060: LiftBase
+    3300062: LiftBase_sliders
+    3300064: //RootNode
+    3300066: Motor.000
+    3300068: Motor.001
+    3300070: Motor.002
+    3300072: Motor.003
+    3300074: Motor.004
+    3300076: Motor.005
+    3300078: Motor.006
+    3300080: Motor.011
+    3300082: Motor.012
+    3300084: Motor_L_B
+    3300086: Motor_L_F
+    3300088: Motor_R_B
+    3300090: Motor_R_F
+    3300092: Planetary Gear
+    3300094: Reservoirs
+    3300096: Solenoid
+    3300098: Solenoid Metal
+    3300100: Solenoid Mount
+    3300102: Solenoid Plug
+    3300104: TurnTable
+    3300106: VexNet
+    4300000: Chassis
+    4300002: GearBox
+    4300004: Lift_Motor3.001
+    4300006: Motor.005
+    4300008: Cylinder.007
+    4300010: Lift_Motor3
+    4300012: Cylinder.006
+    4300014: Motor.003
+    4300016: Lift_Motor2
+    4300018: Cylinder.003
+    4300020: Motor.002
+    4300022: Lift_Motor1
+    4300024: Motor.000
+    4300026: Cylinder.000
+    4300028: Reservoirs
+    4300030: Motor_R_F
+    4300032: Cylinder.004
+    4300034: Motor.011
+    4300036: Motor_R_B
+    4300038: Motor.012
+    4300040: Cylinder.005
+    4300042: Motor_L_B
+    4300044: Cylinder.001
+    4300046: Motor.004
+    4300048: Motor_L_F
+    4300050: Cylinder.002
+    4300052: Motor.001
+    4300054: Cortex
+    4300056: Batteries
+    4300058: VexNet
+    4300060: Cortex_Holsters
+    4300062: LiftBase
+    4300064: Lift_Stage1
+    4300066: Lift_Stage2
+    4300068: Lift_Stage3
+    4300070: Arm Base
+    4300072: Planetary Gear
+    4300074: Solenoid Plug
+    4300076: Solenoid Metal
+    4300078: Solenoid Mount
+    4300080: Solenoid
+    4300082: Arm End
+    4300084: Arm Clamp.002
+    4300086: Arm Clamp
+    4300088: Cube.001
+    4300090: Inner Cups
+    4300092: Arm Motor
+    4300094: Cylinder.008
+    4300096: Motor.006
+    4300098: TurnTable
+    4300100: Block Clamp
+    4300102: Lift_Stage2_sliders
+    4300104: Lift_Stage1_sliders
+    4300106: LiftBase_sliders
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,198 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &148640
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 224: {fileID: 22486246}
+  m_Layer: 5
+  m_Name: Splash Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &180086
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 224: {fileID: 22427678}
+  - 222: {fileID: 22299884}
+  - 114: {fileID: 11498182}
+  - 114: {fileID: 11421252}
+  m_Layer: 5
+  m_Name: Label
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &11421252
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 180086}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84b161eab42d175418d140daa3db1410, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  outZ: 30
+  outScale: 1.5
+  oscillateSpeed: 60
+  splashTexts:
+  - Now With More Swag!
+  - It's Totally Janky!
+  - Make Good Choices!
+  - Council Bluffs!
+  - 2360N!
+  - Blue and Gold!
+  - Such Robot!
+  - Physically Accurate!
+  - WiredCats Roar!
+  - Swing That Arm!
+  - It's Not a Tail, It's an Arm!
+  - '#roboswag!'
+  - Better Than Half-Life 3!
+  - More Copies Sold Than Half-Life 3!
+  - Too Many Torques!
+  - Totally Vexing!
+  - Automoniminoos!
+  - A Michael Bay Production!
+  - It's Electric!
+  - Be Our Alliance Partner!
+  - 12 points!
+  - Slide to the Left! Slide to the Right!
+  - Park n' Score!
+  - It's Legit!
+  - It's Pneumatic!
+  - Jason! Pump it Up!
+  - Powered by Swag!
+  - On a Tuesday!
+  - Not a Wall of Text!
+  - Buy One Get One Free!
+  - Better Than Mario!
+  - Not To Be Confused With Real Life!
+  - Not Very Good At Dieting!
+  - Screwy!
+  - Hard to Explain!
+  - Literally Can't Even!
+  - Tri-Stage!
+  - Mecanum Drive!
+  - Continuous Chain!
+  - 4Chainz!
+  - Gluten Free!
+  - "\xA1Se Habla Espa\xF1ol!"
+  - Janky Bike Pump!
+  - Implements Duct Tape!
+  - Synergy!
+  - Implements Regression!
+  - For Science!
+  - Go For The Short Post!
+  - Push! Push! Push!
+  - Dat Chassis Doe!
+  - 0.75 Points Per Second!
+  - 72.38% Statistical!
+  - A for Effort!
+  - 3-Time Academy Award Winning!
+  - 4 Design Awards And Counting
+  - 2nd In The State!
+  - He's Got Stage Fright!
+  - Impressive!
+  - Fun-Loving!
+  - If It Ain't Broke, Fix It!
+  - Your Skills Have Improved!
+  - Don't Cut The Red Wire!
+  - Spoo0ooky!
+  - Cortices!
+  - Swag-o-Licious!
+  - It Takes 2!
+  - Educational!
+  - Top Secret!
+  - It's An Inside Joke!
+  - Splash Text!
+--- !u!114 &11498182
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 180086}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: .944827557, g: 1, b: 0, a: 1}
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 6a55ddd51a3ee3541817e7cd837e5f00, type: 3}
+    m_FontSize: 30
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 60
+    m_Alignment: 4
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: Splash Text!
+--- !u!222 &22299884
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 180086}
+--- !u!224 &22427678
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 180086}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 22486246}
+  m_RootOrder: 0
+  m_AnchorMin: {x: .5, y: .5}
+  m_AnchorMax: {x: .5, y: .5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 511.339996, y: 45.4000015}
+  m_Pivot: {x: .5, y: .5}
+--- !u!224 &22486246
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 148640}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 22427678}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_AnchorMin: {x: .5, y: .5}
+  m_AnchorMax: {x: .5, y: .5}
+  m_AnchoredPosition: {x: 0, y: 47.2999992}
+  m_SizeDelta: {x: 512.799988, y: 47.4000015}
+  m_Pivot: {x: .5, y: .5}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 148640}
+  m_IsPrefabParent: 1

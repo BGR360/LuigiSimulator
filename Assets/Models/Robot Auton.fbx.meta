@@ -1,0 +1,1085 @@
+fileFormatVersion: 2
+guid: f74c4301c6ef36c42bf090feb4ef3d49
+timeCreated: 1428423089
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Arm Base
+    100002: Arm Clamp
+    100004: Arm Clamp.002
+    100006: Arm End
+    100008: Arm Motor
+    100010: Batteries
+    100012: Block Clamp
+    100014: Chassis
+    100016: Cortex
+    100018: Cortex_Holsters
+    100020: Cube.001
+    100022: Cylinder.000
+    100024: Cylinder.001
+    100026: Cylinder.002
+    100028: Cylinder.003
+    100030: Cylinder.004
+    100032: Cylinder.005
+    100034: Cylinder.006
+    100036: Cylinder.007
+    100038: Cylinder.008
+    100040: GearBox
+    100042: Inner Cups
+    100044: Inner Cups.001
+    100046: Lift_Motor1
+    100048: Lift_Motor2
+    100050: Lift_Motor3
+    100052: Lift_Motor3.001
+    100054: Lift_Stage1
+    100056: Lift_Stage1_sliders
+    100058: Lift_Stage2
+    100060: Lift_Stage2_sliders
+    100062: Lift_Stage3
+    100064: LiftBase
+    100066: LiftBase_sliders
+    100068: Motor.000
+    100070: Motor.001
+    100072: Motor.002
+    100074: Motor.003
+    100076: Motor.004
+    100078: Motor.005
+    100080: Motor.006
+    100082: Motor.011
+    100084: Motor.012
+    100086: Motor_L_B
+    100088: Motor_L_F
+    100090: Motor_R_B
+    100092: Motor_R_F
+    100094: Planetary Gear
+    100096: Posts.010
+    100098: Reservoirs
+    100100: //RootNode
+    100102: Solenoid
+    100104: Solenoid Metal
+    100106: Solenoid Mount
+    100108: Solenoid Plug
+    100110: TurnTable
+    100112: VexNet
+    100114: Wheel_L_B
+    100116: Wheel_L_F
+    100118: Wheel_R_B
+    100120: Wheel_R_F
+    400000: Arm Base
+    400002: Arm Clamp
+    400004: Arm Clamp.002
+    400006: Arm End
+    400008: Arm Motor
+    400010: Batteries
+    400012: Block Clamp
+    400014: Chassis
+    400016: Cortex
+    400018: Cortex_Holsters
+    400020: Cube.001
+    400022: Cylinder.000
+    400024: Cylinder.001
+    400026: Cylinder.002
+    400028: Cylinder.003
+    400030: Cylinder.004
+    400032: Cylinder.005
+    400034: Cylinder.006
+    400036: Cylinder.007
+    400038: Cylinder.008
+    400040: GearBox
+    400042: Inner Cups
+    400044: Inner Cups.001
+    400046: Lift_Motor1
+    400048: Lift_Motor2
+    400050: Lift_Motor3
+    400052: Lift_Motor3.001
+    400054: Lift_Stage1
+    400056: Lift_Stage1_sliders
+    400058: Lift_Stage2
+    400060: Lift_Stage2_sliders
+    400062: Lift_Stage3
+    400064: LiftBase
+    400066: LiftBase_sliders
+    400068: Motor.000
+    400070: Motor.001
+    400072: Motor.002
+    400074: Motor.003
+    400076: Motor.004
+    400078: Motor.005
+    400080: Motor.006
+    400082: Motor.011
+    400084: Motor.012
+    400086: Motor_L_B
+    400088: Motor_L_F
+    400090: Motor_R_B
+    400092: Motor_R_F
+    400094: Planetary Gear
+    400096: Posts.010
+    400098: Reservoirs
+    400100: //RootNode
+    400102: Solenoid
+    400104: Solenoid Metal
+    400106: Solenoid Mount
+    400108: Solenoid Plug
+    400110: TurnTable
+    400112: VexNet
+    400114: Wheel_L_B
+    400116: Wheel_L_F
+    400118: Wheel_R_B
+    400120: Wheel_R_F
+    2300000: Arm Base
+    2300002: Arm Clamp
+    2300004: Arm Clamp.002
+    2300006: Arm End
+    2300008: Arm Motor
+    2300010: Batteries
+    2300012: Block Clamp
+    2300014: Chassis
+    2300016: Cortex
+    2300018: Cortex_Holsters
+    2300020: Cube.001
+    2300022: Cylinder.000
+    2300024: Cylinder.001
+    2300026: Cylinder.002
+    2300028: Cylinder.003
+    2300030: Cylinder.004
+    2300032: Cylinder.005
+    2300034: Cylinder.006
+    2300036: Cylinder.007
+    2300038: Cylinder.008
+    2300040: GearBox
+    2300042: Inner Cups
+    2300044: Inner Cups.001
+    2300046: Lift_Motor1
+    2300048: Lift_Motor2
+    2300050: Lift_Motor3
+    2300052: Lift_Motor3.001
+    2300054: Lift_Stage1
+    2300056: Lift_Stage1_sliders
+    2300058: Lift_Stage2
+    2300060: Lift_Stage2_sliders
+    2300062: Lift_Stage3
+    2300064: LiftBase
+    2300066: LiftBase_sliders
+    2300068: Motor.000
+    2300070: Motor.001
+    2300072: Motor.002
+    2300074: Motor.003
+    2300076: Motor.004
+    2300078: Motor.005
+    2300080: Motor.006
+    2300082: Motor.011
+    2300084: Motor.012
+    2300086: Motor_L_B
+    2300088: Motor_L_F
+    2300090: Motor_R_B
+    2300092: Motor_R_F
+    2300094: Planetary Gear
+    2300096: Reservoirs
+    2300098: Solenoid
+    2300100: Solenoid Metal
+    2300102: Solenoid Mount
+    2300104: Solenoid Plug
+    2300106: TurnTable
+    2300108: VexNet
+    2300110: Wheel_L_B
+    2300112: Wheel_L_F
+    2300114: Wheel_R_B
+    2300116: Wheel_R_F
+    3300000: Arm Base
+    3300002: Arm Clamp
+    3300004: Arm Clamp.002
+    3300006: Arm End
+    3300008: Arm Motor
+    3300010: Batteries
+    3300012: Block Clamp
+    3300014: Chassis
+    3300016: Cortex
+    3300018: Cortex_Holsters
+    3300020: Cube.001
+    3300022: Cylinder.000
+    3300024: Cylinder.001
+    3300026: Cylinder.002
+    3300028: Cylinder.003
+    3300030: Cylinder.004
+    3300032: Cylinder.005
+    3300034: Cylinder.006
+    3300036: Cylinder.007
+    3300038: Cylinder.008
+    3300040: GearBox
+    3300042: Inner Cups
+    3300044: Inner Cups.001
+    3300046: Lift_Motor1
+    3300048: Lift_Motor2
+    3300050: Lift_Motor3
+    3300052: Lift_Motor3.001
+    3300054: Lift_Stage1
+    3300056: Lift_Stage1_sliders
+    3300058: Lift_Stage2
+    3300060: Lift_Stage2_sliders
+    3300062: Lift_Stage3
+    3300064: LiftBase
+    3300066: LiftBase_sliders
+    3300068: Motor.000
+    3300070: Motor.001
+    3300072: Motor.002
+    3300074: Motor.003
+    3300076: Motor.004
+    3300078: Motor.005
+    3300080: Motor.006
+    3300082: Motor.011
+    3300084: Motor.012
+    3300086: Motor_L_B
+    3300088: Motor_L_F
+    3300090: Motor_R_B
+    3300092: Motor_R_F
+    3300094: Planetary Gear
+    3300096: Reservoirs
+    3300098: Solenoid
+    3300100: Solenoid Metal
+    3300102: Solenoid Mount
+    3300104: Solenoid Plug
+    3300106: TurnTable
+    3300108: VexNet
+    3300110: Wheel_L_B
+    3300112: Wheel_L_F
+    3300114: Wheel_R_B
+    3300116: Wheel_R_F
+    4300000: Chassis
+    4300002: Cortex
+    4300004: Batteries
+    4300006: Cortex_Holsters
+    4300008: VexNet
+    4300010: GearBox
+    4300012: Lift_Motor1
+    4300014: Cylinder.000
+    4300016: Motor.000
+    4300018: Lift_Motor2
+    4300020: Cylinder.003
+    4300022: Motor.002
+    4300024: Lift_Motor3.001
+    4300026: Cylinder.007
+    4300028: Motor.005
+    4300030: Lift_Motor3
+    4300032: Cylinder.006
+    4300034: Motor.003
+    4300036: LiftBase
+    4300038: Lift_Stage1
+    4300040: Lift_Stage1_sliders
+    4300042: Lift_Stage2
+    4300044: Lift_Stage2_sliders
+    4300046: Lift_Stage3
+    4300048: Arm Base
+    4300050: Arm End
+    4300052: Arm Clamp.002
+    4300054: Arm Clamp
+    4300056: Cube.001
+    4300058: Inner Cups.001
+    4300060: Inner Cups
+    4300062: Arm Motor
+    4300064: Cylinder.008
+    4300066: Motor.006
+    4300068: Planetary Gear
+    4300070: Solenoid
+    4300072: Solenoid Metal
+    4300074: Solenoid Mount
+    4300076: Solenoid Plug
+    4300078: Block Clamp
+    4300080: TurnTable
+    4300082: LiftBase_sliders
+    4300084: Motor_L_B
+    4300086: Cylinder.001
+    4300088: Motor.004
+    4300090: Motor_L_F
+    4300092: Cylinder.002
+    4300094: Motor.001
+    4300096: Motor_R_B
+    4300098: Cylinder.005
+    4300100: Motor.012
+    4300102: Motor_R_F
+    4300104: Cylinder.004
+    4300106: Motor.011
+    4300108: Reservoirs
+    4300110: Wheel_L_B
+    4300112: Wheel_L_F
+    4300114: Wheel_R_B
+    4300116: Wheel_R_F
+    7400000: Chassis|Arm BaseAction
+    7400002: Chassis|Arm Clamp.002Action
+    7400004: Chassis|Arm ClampAction
+    7400006: Chassis|Arm EndAction
+    7400008: Chassis|BlueAction
+    7400010: Chassis|CubeAction
+    7400012: Chassis|Inner Cups.001Action
+    7400014: Chassis|Lift_Motor1Action
+    7400016: Chassis|Lift_Stage2Action
+    7400018: Chassis|Lift_Stage3Action
+    7400020: Chassis|Skyrise Secton.001Action
+    7400022: Chassis|Skyrise SectonAction
+    7400024: Cortex|Arm BaseAction
+    7400026: Cortex|Arm Clamp.002Action
+    7400028: Cortex|Arm ClampAction
+    7400030: Cortex|Arm EndAction
+    7400032: Cortex|BlueAction
+    7400034: Cortex|CubeAction
+    7400036: Cortex|Inner Cups.001Action
+    7400038: Cortex|Lift_Motor1Action
+    7400040: Cortex|Lift_Stage2Action
+    7400042: Cortex|Lift_Stage3Action
+    7400044: Cortex|Skyrise Secton.001Action
+    7400046: Cortex|Skyrise SectonAction
+    7400048: Batteries|Arm BaseAction
+    7400050: Batteries|Arm Clamp.002Action
+    7400052: Batteries|Arm ClampAction
+    7400054: Batteries|Arm EndAction
+    7400056: Batteries|BlueAction
+    7400058: Batteries|CubeAction
+    7400060: Batteries|Inner Cups.001Action
+    7400062: Batteries|Lift_Motor1Action
+    7400064: Batteries|Lift_Stage2Action
+    7400066: Batteries|Lift_Stage3Action
+    7400068: Batteries|Skyrise Secton.001Action
+    7400070: Batteries|Skyrise SectonAction
+    7400072: Cortex_Holsters|Arm BaseAction
+    7400074: Cortex_Holsters|Arm Clamp.002Action
+    7400076: Cortex_Holsters|Arm ClampAction
+    7400078: Cortex_Holsters|Arm EndAction
+    7400080: Cortex_Holsters|BlueAction
+    7400082: Cortex_Holsters|CubeAction
+    7400084: Cortex_Holsters|Inner Cups.001Action
+    7400086: Cortex_Holsters|Lift_Motor1Action
+    7400088: Cortex_Holsters|Lift_Stage2Action
+    7400090: Cortex_Holsters|Lift_Stage3Action
+    7400092: Cortex_Holsters|Skyrise Secton.001Action
+    7400094: Cortex_Holsters|Skyrise SectonAction
+    7400096: VexNet|Arm BaseAction
+    7400098: VexNet|Arm Clamp.002Action
+    7400100: VexNet|Arm ClampAction
+    7400102: VexNet|Arm EndAction
+    7400104: VexNet|BlueAction
+    7400106: VexNet|CubeAction
+    7400108: VexNet|Inner Cups.001Action
+    7400110: VexNet|Lift_Motor1Action
+    7400112: VexNet|Lift_Stage2Action
+    7400114: VexNet|Lift_Stage3Action
+    7400116: VexNet|Skyrise Secton.001Action
+    7400118: VexNet|Skyrise SectonAction
+    7400120: GearBox|Arm BaseAction
+    7400122: GearBox|Arm Clamp.002Action
+    7400124: GearBox|Arm ClampAction
+    7400126: GearBox|Arm EndAction
+    7400128: GearBox|BlueAction
+    7400130: GearBox|CubeAction
+    7400132: GearBox|Inner Cups.001Action
+    7400134: GearBox|Lift_Motor1Action
+    7400136: GearBox|Lift_Stage2Action
+    7400138: GearBox|Lift_Stage3Action
+    7400140: GearBox|Skyrise Secton.001Action
+    7400142: GearBox|Skyrise SectonAction
+    7400144: Lift_Motor1|Arm BaseAction
+    7400146: Lift_Motor1|Arm Clamp.002Action
+    7400148: Lift_Motor1|Arm ClampAction
+    7400150: Lift_Motor1|Arm EndAction
+    7400152: Lift_Motor1|BlueAction
+    7400154: Lift_Motor1|CubeAction
+    7400156: Lift_Motor1|Inner Cups.001Action
+    7400158: Lift_Motor1|Lift_Motor1Action
+    7400160: Lift_Motor1|Lift_Stage2Action
+    7400162: Lift_Motor1|Lift_Stage3Action
+    7400164: Lift_Motor1|Skyrise Secton.001Action
+    7400166: Lift_Motor1|Skyrise SectonAction
+    7400168: Cylinder.000|Arm BaseAction
+    7400170: Cylinder.000|Arm Clamp.002Action
+    7400172: Cylinder.000|Arm ClampAction
+    7400174: Cylinder.000|Arm EndAction
+    7400176: Cylinder.000|BlueAction
+    7400178: Cylinder.000|CubeAction
+    7400180: Cylinder.000|Inner Cups.001Action
+    7400182: Cylinder.000|Lift_Motor1Action
+    7400184: Cylinder.000|Lift_Stage2Action
+    7400186: Cylinder.000|Lift_Stage3Action
+    7400188: Cylinder.000|Skyrise Secton.001Action
+    7400190: Cylinder.000|Skyrise SectonAction
+    7400192: Motor.000|Arm BaseAction
+    7400194: Motor.000|Arm Clamp.002Action
+    7400196: Motor.000|Arm ClampAction
+    7400198: Motor.000|Arm EndAction
+    7400200: Motor.000|BlueAction
+    7400202: Motor.000|CubeAction
+    7400204: Motor.000|Inner Cups.001Action
+    7400206: Motor.000|Lift_Motor1Action
+    7400208: Motor.000|Lift_Stage2Action
+    7400210: Motor.000|Lift_Stage3Action
+    7400212: Motor.000|Skyrise Secton.001Action
+    7400214: Motor.000|Skyrise SectonAction
+    7400216: Lift_Motor2|Arm BaseAction
+    7400218: Lift_Motor2|Arm Clamp.002Action
+    7400220: Lift_Motor2|Arm ClampAction
+    7400222: Lift_Motor2|Arm EndAction
+    7400224: Lift_Motor2|BlueAction
+    7400226: Lift_Motor2|CubeAction
+    7400228: Lift_Motor2|Inner Cups.001Action
+    7400230: Lift_Motor2|Lift_Motor1Action
+    7400232: Lift_Motor2|Lift_Stage2Action
+    7400234: Lift_Motor2|Lift_Stage3Action
+    7400236: Lift_Motor2|Skyrise Secton.001Action
+    7400238: Lift_Motor2|Skyrise SectonAction
+    7400240: Cylinder.003|Arm BaseAction
+    7400242: Cylinder.003|Arm Clamp.002Action
+    7400244: Cylinder.003|Arm ClampAction
+    7400246: Cylinder.003|Arm EndAction
+    7400248: Cylinder.003|BlueAction
+    7400250: Cylinder.003|CubeAction
+    7400252: Cylinder.003|Inner Cups.001Action
+    7400254: Cylinder.003|Lift_Motor1Action
+    7400256: Cylinder.003|Lift_Stage2Action
+    7400258: Cylinder.003|Lift_Stage3Action
+    7400260: Cylinder.003|Skyrise Secton.001Action
+    7400262: Cylinder.003|Skyrise SectonAction
+    7400264: Motor.002|Arm BaseAction
+    7400266: Motor.002|Arm Clamp.002Action
+    7400268: Motor.002|Arm ClampAction
+    7400270: Motor.002|Arm EndAction
+    7400272: Motor.002|BlueAction
+    7400274: Motor.002|CubeAction
+    7400276: Motor.002|Inner Cups.001Action
+    7400278: Motor.002|Lift_Motor1Action
+    7400280: Motor.002|Lift_Stage2Action
+    7400282: Motor.002|Lift_Stage3Action
+    7400284: Motor.002|Skyrise Secton.001Action
+    7400286: Motor.002|Skyrise SectonAction
+    7400288: Lift_Motor3.001|Arm BaseAction
+    7400290: Lift_Motor3.001|Arm Clamp.002Action
+    7400292: Lift_Motor3.001|Arm ClampAction
+    7400294: Lift_Motor3.001|Arm EndAction
+    7400296: Lift_Motor3.001|BlueAction
+    7400298: Lift_Motor3.001|CubeAction
+    7400300: Lift_Motor3.001|Inner Cups.001Action
+    7400302: Lift_Motor3.001|Lift_Motor1Action
+    7400304: Lift_Motor3.001|Lift_Stage2Action
+    7400306: Lift_Motor3.001|Lift_Stage3Action
+    7400308: Lift_Motor3.001|Skyrise Secton.001Action
+    7400310: Lift_Motor3.001|Skyrise SectonAction
+    7400312: Cylinder.007|Arm BaseAction
+    7400314: Cylinder.007|Arm Clamp.002Action
+    7400316: Cylinder.007|Arm ClampAction
+    7400318: Cylinder.007|Arm EndAction
+    7400320: Cylinder.007|BlueAction
+    7400322: Cylinder.007|CubeAction
+    7400324: Cylinder.007|Inner Cups.001Action
+    7400326: Cylinder.007|Lift_Motor1Action
+    7400328: Cylinder.007|Lift_Stage2Action
+    7400330: Cylinder.007|Lift_Stage3Action
+    7400332: Cylinder.007|Skyrise Secton.001Action
+    7400334: Cylinder.007|Skyrise SectonAction
+    7400336: Motor.005|Arm BaseAction
+    7400338: Motor.005|Arm Clamp.002Action
+    7400340: Motor.005|Arm ClampAction
+    7400342: Motor.005|Arm EndAction
+    7400344: Motor.005|BlueAction
+    7400346: Motor.005|CubeAction
+    7400348: Motor.005|Inner Cups.001Action
+    7400350: Motor.005|Lift_Motor1Action
+    7400352: Motor.005|Lift_Stage2Action
+    7400354: Motor.005|Lift_Stage3Action
+    7400356: Motor.005|Skyrise Secton.001Action
+    7400358: Motor.005|Skyrise SectonAction
+    7400360: Lift_Motor3|Arm BaseAction
+    7400362: Lift_Motor3|Arm Clamp.002Action
+    7400364: Lift_Motor3|Arm ClampAction
+    7400366: Lift_Motor3|Arm EndAction
+    7400368: Lift_Motor3|BlueAction
+    7400370: Lift_Motor3|CubeAction
+    7400372: Lift_Motor3|Inner Cups.001Action
+    7400374: Lift_Motor3|Lift_Motor1Action
+    7400376: Lift_Motor3|Lift_Stage2Action
+    7400378: Lift_Motor3|Lift_Stage3Action
+    7400380: Lift_Motor3|Skyrise Secton.001Action
+    7400382: Lift_Motor3|Skyrise SectonAction
+    7400384: Cylinder.006|Arm BaseAction
+    7400386: Cylinder.006|Arm Clamp.002Action
+    7400388: Cylinder.006|Arm ClampAction
+    7400390: Cylinder.006|Arm EndAction
+    7400392: Cylinder.006|BlueAction
+    7400394: Cylinder.006|CubeAction
+    7400396: Cylinder.006|Inner Cups.001Action
+    7400398: Cylinder.006|Lift_Motor1Action
+    7400400: Cylinder.006|Lift_Stage2Action
+    7400402: Cylinder.006|Lift_Stage3Action
+    7400404: Cylinder.006|Skyrise Secton.001Action
+    7400406: Cylinder.006|Skyrise SectonAction
+    7400408: Motor.003|Arm BaseAction
+    7400410: Motor.003|Arm Clamp.002Action
+    7400412: Motor.003|Arm ClampAction
+    7400414: Motor.003|Arm EndAction
+    7400416: Motor.003|BlueAction
+    7400418: Motor.003|CubeAction
+    7400420: Motor.003|Inner Cups.001Action
+    7400422: Motor.003|Lift_Motor1Action
+    7400424: Motor.003|Lift_Stage2Action
+    7400426: Motor.003|Lift_Stage3Action
+    7400428: Motor.003|Skyrise Secton.001Action
+    7400430: Motor.003|Skyrise SectonAction
+    7400432: LiftBase|Arm BaseAction
+    7400434: LiftBase|Arm Clamp.002Action
+    7400436: LiftBase|Arm ClampAction
+    7400438: LiftBase|Arm EndAction
+    7400440: LiftBase|BlueAction
+    7400442: LiftBase|CubeAction
+    7400444: LiftBase|Inner Cups.001Action
+    7400446: LiftBase|Lift_Motor1Action
+    7400448: LiftBase|Lift_Stage2Action
+    7400450: LiftBase|Lift_Stage3Action
+    7400452: LiftBase|Skyrise Secton.001Action
+    7400454: LiftBase|Skyrise SectonAction
+    7400456: Lift_Stage1|Arm BaseAction
+    7400458: Lift_Stage1|Arm Clamp.002Action
+    7400460: Lift_Stage1|Arm ClampAction
+    7400462: Lift_Stage1|Arm EndAction
+    7400464: Lift_Stage1|BlueAction
+    7400466: Lift_Stage1|CubeAction
+    7400468: Lift_Stage1|Inner Cups.001Action
+    7400470: Lift_Stage1|Lift_Motor1Action
+    7400472: Lift_Stage1|Lift_Stage2Action
+    7400474: Lift_Stage1|Lift_Stage3Action
+    7400476: Lift_Stage1|Skyrise Secton.001Action
+    7400478: Lift_Stage1|Skyrise SectonAction
+    7400480: Lift_Stage1_sliders|Arm BaseAction
+    7400482: Lift_Stage1_sliders|Arm Clamp.002Action
+    7400484: Lift_Stage1_sliders|Arm ClampAction
+    7400486: Lift_Stage1_sliders|Arm EndAction
+    7400488: Lift_Stage1_sliders|BlueAction
+    7400490: Lift_Stage1_sliders|CubeAction
+    7400492: Lift_Stage1_sliders|Inner Cups.001Action
+    7400494: Lift_Stage1_sliders|Lift_Motor1Action
+    7400496: Lift_Stage1_sliders|Lift_Stage2Action
+    7400498: Lift_Stage1_sliders|Lift_Stage3Action
+    7400500: Lift_Stage1_sliders|Skyrise Secton.001Action
+    7400502: Lift_Stage1_sliders|Skyrise SectonAction
+    7400504: Lift_Stage2|Arm BaseAction
+    7400506: Lift_Stage2|Arm Clamp.002Action
+    7400508: Lift_Stage2|Arm ClampAction
+    7400510: Lift_Stage2|Arm EndAction
+    7400512: Lift_Stage2|BlueAction
+    7400514: Lift_Stage2|CubeAction
+    7400516: Lift_Stage2|Inner Cups.001Action
+    7400518: Lift_Stage2|Lift_Motor1Action
+    7400520: Lift_Stage2|Lift_Stage2Action
+    7400522: Lift_Stage2|Lift_Stage3Action
+    7400524: Lift_Stage2|Skyrise Secton.001Action
+    7400526: Lift_Stage2|Skyrise SectonAction
+    7400528: Lift_Stage2_sliders|Arm BaseAction
+    7400530: Lift_Stage2_sliders|Arm Clamp.002Action
+    7400532: Lift_Stage2_sliders|Arm ClampAction
+    7400534: Lift_Stage2_sliders|Arm EndAction
+    7400536: Lift_Stage2_sliders|BlueAction
+    7400538: Lift_Stage2_sliders|CubeAction
+    7400540: Lift_Stage2_sliders|Inner Cups.001Action
+    7400542: Lift_Stage2_sliders|Lift_Motor1Action
+    7400544: Lift_Stage2_sliders|Lift_Stage2Action
+    7400546: Lift_Stage2_sliders|Lift_Stage3Action
+    7400548: Lift_Stage2_sliders|Skyrise Secton.001Action
+    7400550: Lift_Stage2_sliders|Skyrise SectonAction
+    7400552: Lift_Stage3|Arm BaseAction
+    7400554: Lift_Stage3|Arm Clamp.002Action
+    7400556: Lift_Stage3|Arm ClampAction
+    7400558: Lift_Stage3|Arm EndAction
+    7400560: Lift_Stage3|BlueAction
+    7400562: Lift_Stage3|CubeAction
+    7400564: Lift_Stage3|Inner Cups.001Action
+    7400566: Lift_Stage3|Lift_Motor1Action
+    7400568: Lift_Stage3|Lift_Stage2Action
+    7400570: Lift_Stage3|Lift_Stage3Action
+    7400572: Lift_Stage3|Skyrise Secton.001Action
+    7400574: Lift_Stage3|Skyrise SectonAction
+    7400576: Arm Base|Arm BaseAction
+    7400578: Arm Base|Arm Clamp.002Action
+    7400580: Arm Base|Arm ClampAction
+    7400582: Arm Base|Arm EndAction
+    7400584: Arm Base|BlueAction
+    7400586: Arm Base|CubeAction
+    7400588: Arm Base|Inner Cups.001Action
+    7400590: Arm Base|Lift_Motor1Action
+    7400592: Arm Base|Lift_Stage2Action
+    7400594: Arm Base|Lift_Stage3Action
+    7400596: Arm Base|Skyrise Secton.001Action
+    7400598: Arm Base|Skyrise SectonAction
+    7400600: Arm End|Arm BaseAction
+    7400602: Arm End|Arm Clamp.002Action
+    7400604: Arm End|Arm ClampAction
+    7400606: Arm End|Arm EndAction
+    7400608: Arm End|BlueAction
+    7400610: Arm End|CubeAction
+    7400612: Arm End|Inner Cups.001Action
+    7400614: Arm End|Lift_Motor1Action
+    7400616: Arm End|Lift_Stage2Action
+    7400618: Arm End|Lift_Stage3Action
+    7400620: Arm End|Skyrise Secton.001Action
+    7400622: Arm End|Skyrise SectonAction
+    7400624: Arm Clamp.002|Arm BaseAction
+    7400626: Arm Clamp.002|Arm Clamp.002Action
+    7400628: Arm Clamp.002|Arm ClampAction
+    7400630: Arm Clamp.002|Arm EndAction
+    7400632: Arm Clamp.002|BlueAction
+    7400634: Arm Clamp.002|CubeAction
+    7400636: Arm Clamp.002|Inner Cups.001Action
+    7400638: Arm Clamp.002|Lift_Motor1Action
+    7400640: Arm Clamp.002|Lift_Stage2Action
+    7400642: Arm Clamp.002|Lift_Stage3Action
+    7400644: Arm Clamp.002|Skyrise Secton.001Action
+    7400646: Arm Clamp.002|Skyrise SectonAction
+    7400648: Arm Clamp|Arm BaseAction
+    7400650: Arm Clamp|Arm Clamp.002Action
+    7400652: Arm Clamp|Arm ClampAction
+    7400654: Arm Clamp|Arm EndAction
+    7400656: Arm Clamp|BlueAction
+    7400658: Arm Clamp|CubeAction
+    7400660: Arm Clamp|Inner Cups.001Action
+    7400662: Arm Clamp|Lift_Motor1Action
+    7400664: Arm Clamp|Lift_Stage2Action
+    7400666: Arm Clamp|Lift_Stage3Action
+    7400668: Arm Clamp|Skyrise Secton.001Action
+    7400670: Arm Clamp|Skyrise SectonAction
+    7400672: Cube.001|Arm BaseAction
+    7400674: Cube.001|Arm Clamp.002Action
+    7400676: Cube.001|Arm ClampAction
+    7400678: Cube.001|Arm EndAction
+    7400680: Cube.001|BlueAction
+    7400682: Cube.001|CubeAction
+    7400684: Cube.001|Inner Cups.001Action
+    7400686: Cube.001|Lift_Motor1Action
+    7400688: Cube.001|Lift_Stage2Action
+    7400690: Cube.001|Lift_Stage3Action
+    7400692: Cube.001|Skyrise Secton.001Action
+    7400694: Cube.001|Skyrise SectonAction
+    7400696: Inner Cups.001|Arm BaseAction
+    7400698: Inner Cups.001|Arm Clamp.002Action
+    7400700: Inner Cups.001|Arm ClampAction
+    7400702: Inner Cups.001|Arm EndAction
+    7400704: Inner Cups.001|BlueAction
+    7400706: Inner Cups.001|CubeAction
+    7400708: Inner Cups.001|Inner Cups.001Action
+    7400710: Inner Cups.001|Lift_Motor1Action
+    7400712: Inner Cups.001|Lift_Stage2Action
+    7400714: Inner Cups.001|Lift_Stage3Action
+    7400716: Inner Cups.001|Skyrise Secton.001Action
+    7400718: Inner Cups.001|Skyrise SectonAction
+    7400720: Inner Cups|Arm BaseAction
+    7400722: Inner Cups|Arm Clamp.002Action
+    7400724: Inner Cups|Arm ClampAction
+    7400726: Inner Cups|Arm EndAction
+    7400728: Inner Cups|BlueAction
+    7400730: Inner Cups|CubeAction
+    7400732: Inner Cups|Inner Cups.001Action
+    7400734: Inner Cups|Lift_Motor1Action
+    7400736: Inner Cups|Lift_Stage2Action
+    7400738: Inner Cups|Lift_Stage3Action
+    7400740: Inner Cups|Skyrise Secton.001Action
+    7400742: Inner Cups|Skyrise SectonAction
+    7400744: Arm Motor|Arm BaseAction
+    7400746: Arm Motor|Arm Clamp.002Action
+    7400748: Arm Motor|Arm ClampAction
+    7400750: Arm Motor|Arm EndAction
+    7400752: Arm Motor|BlueAction
+    7400754: Arm Motor|CubeAction
+    7400756: Arm Motor|Inner Cups.001Action
+    7400758: Arm Motor|Lift_Motor1Action
+    7400760: Arm Motor|Lift_Stage2Action
+    7400762: Arm Motor|Lift_Stage3Action
+    7400764: Arm Motor|Skyrise Secton.001Action
+    7400766: Arm Motor|Skyrise SectonAction
+    7400768: Cylinder.008|Arm BaseAction
+    7400770: Cylinder.008|Arm Clamp.002Action
+    7400772: Cylinder.008|Arm ClampAction
+    7400774: Cylinder.008|Arm EndAction
+    7400776: Cylinder.008|BlueAction
+    7400778: Cylinder.008|CubeAction
+    7400780: Cylinder.008|Inner Cups.001Action
+    7400782: Cylinder.008|Lift_Motor1Action
+    7400784: Cylinder.008|Lift_Stage2Action
+    7400786: Cylinder.008|Lift_Stage3Action
+    7400788: Cylinder.008|Skyrise Secton.001Action
+    7400790: Cylinder.008|Skyrise SectonAction
+    7400792: Motor.006|Arm BaseAction
+    7400794: Motor.006|Arm Clamp.002Action
+    7400796: Motor.006|Arm ClampAction
+    7400798: Motor.006|Arm EndAction
+    7400800: Motor.006|BlueAction
+    7400802: Motor.006|CubeAction
+    7400804: Motor.006|Inner Cups.001Action
+    7400806: Motor.006|Lift_Motor1Action
+    7400808: Motor.006|Lift_Stage2Action
+    7400810: Motor.006|Lift_Stage3Action
+    7400812: Motor.006|Skyrise Secton.001Action
+    7400814: Motor.006|Skyrise SectonAction
+    7400816: Planetary Gear|Arm BaseAction
+    7400818: Planetary Gear|Arm Clamp.002Action
+    7400820: Planetary Gear|Arm ClampAction
+    7400822: Planetary Gear|Arm EndAction
+    7400824: Planetary Gear|BlueAction
+    7400826: Planetary Gear|CubeAction
+    7400828: Planetary Gear|Inner Cups.001Action
+    7400830: Planetary Gear|Lift_Motor1Action
+    7400832: Planetary Gear|Lift_Stage2Action
+    7400834: Planetary Gear|Lift_Stage3Action
+    7400836: Planetary Gear|Skyrise Secton.001Action
+    7400838: Planetary Gear|Skyrise SectonAction
+    7400840: Solenoid|Arm BaseAction
+    7400842: Solenoid|Arm Clamp.002Action
+    7400844: Solenoid|Arm ClampAction
+    7400846: Solenoid|Arm EndAction
+    7400848: Solenoid|BlueAction
+    7400850: Solenoid|CubeAction
+    7400852: Solenoid|Inner Cups.001Action
+    7400854: Solenoid|Lift_Motor1Action
+    7400856: Solenoid|Lift_Stage2Action
+    7400858: Solenoid|Lift_Stage3Action
+    7400860: Solenoid|Skyrise Secton.001Action
+    7400862: Solenoid|Skyrise SectonAction
+    7400864: Solenoid Metal|Arm BaseAction
+    7400866: Solenoid Metal|Arm Clamp.002Action
+    7400868: Solenoid Metal|Arm ClampAction
+    7400870: Solenoid Metal|Arm EndAction
+    7400872: Solenoid Metal|BlueAction
+    7400874: Solenoid Metal|CubeAction
+    7400876: Solenoid Metal|Inner Cups.001Action
+    7400878: Solenoid Metal|Lift_Motor1Action
+    7400880: Solenoid Metal|Lift_Stage2Action
+    7400882: Solenoid Metal|Lift_Stage3Action
+    7400884: Solenoid Metal|Skyrise Secton.001Action
+    7400886: Solenoid Metal|Skyrise SectonAction
+    7400888: Solenoid Mount|Arm BaseAction
+    7400890: Solenoid Mount|Arm Clamp.002Action
+    7400892: Solenoid Mount|Arm ClampAction
+    7400894: Solenoid Mount|Arm EndAction
+    7400896: Solenoid Mount|BlueAction
+    7400898: Solenoid Mount|CubeAction
+    7400900: Solenoid Mount|Inner Cups.001Action
+    7400902: Solenoid Mount|Lift_Motor1Action
+    7400904: Solenoid Mount|Lift_Stage2Action
+    7400906: Solenoid Mount|Lift_Stage3Action
+    7400908: Solenoid Mount|Skyrise Secton.001Action
+    7400910: Solenoid Mount|Skyrise SectonAction
+    7400912: Solenoid Plug|Arm BaseAction
+    7400914: Solenoid Plug|Arm Clamp.002Action
+    7400916: Solenoid Plug|Arm ClampAction
+    7400918: Solenoid Plug|Arm EndAction
+    7400920: Solenoid Plug|BlueAction
+    7400922: Solenoid Plug|CubeAction
+    7400924: Solenoid Plug|Inner Cups.001Action
+    7400926: Solenoid Plug|Lift_Motor1Action
+    7400928: Solenoid Plug|Lift_Stage2Action
+    7400930: Solenoid Plug|Lift_Stage3Action
+    7400932: Solenoid Plug|Skyrise Secton.001Action
+    7400934: Solenoid Plug|Skyrise SectonAction
+    7400936: Block Clamp|Arm BaseAction
+    7400938: Block Clamp|Arm Clamp.002Action
+    7400940: Block Clamp|Arm ClampAction
+    7400942: Block Clamp|Arm EndAction
+    7400944: Block Clamp|BlueAction
+    7400946: Block Clamp|CubeAction
+    7400948: Block Clamp|Inner Cups.001Action
+    7400950: Block Clamp|Lift_Motor1Action
+    7400952: Block Clamp|Lift_Stage2Action
+    7400954: Block Clamp|Lift_Stage3Action
+    7400956: Block Clamp|Skyrise Secton.001Action
+    7400958: Block Clamp|Skyrise SectonAction
+    7400960: TurnTable|Arm BaseAction
+    7400962: TurnTable|Arm Clamp.002Action
+    7400964: TurnTable|Arm ClampAction
+    7400966: TurnTable|Arm EndAction
+    7400968: TurnTable|BlueAction
+    7400970: TurnTable|CubeAction
+    7400972: TurnTable|Inner Cups.001Action
+    7400974: TurnTable|Lift_Motor1Action
+    7400976: TurnTable|Lift_Stage2Action
+    7400978: TurnTable|Lift_Stage3Action
+    7400980: TurnTable|Skyrise Secton.001Action
+    7400982: TurnTable|Skyrise SectonAction
+    7400984: LiftBase_sliders|Arm BaseAction
+    7400986: LiftBase_sliders|Arm Clamp.002Action
+    7400988: LiftBase_sliders|Arm ClampAction
+    7400990: LiftBase_sliders|Arm EndAction
+    7400992: LiftBase_sliders|BlueAction
+    7400994: LiftBase_sliders|CubeAction
+    7400996: LiftBase_sliders|Inner Cups.001Action
+    7400998: LiftBase_sliders|Lift_Motor1Action
+    7401000: LiftBase_sliders|Lift_Stage2Action
+    7401002: LiftBase_sliders|Lift_Stage3Action
+    7401004: LiftBase_sliders|Skyrise Secton.001Action
+    7401006: LiftBase_sliders|Skyrise SectonAction
+    7401008: Motor_L_B|Arm BaseAction
+    7401010: Motor_L_B|Arm Clamp.002Action
+    7401012: Motor_L_B|Arm ClampAction
+    7401014: Motor_L_B|Arm EndAction
+    7401016: Motor_L_B|BlueAction
+    7401018: Motor_L_B|CubeAction
+    7401020: Motor_L_B|Inner Cups.001Action
+    7401022: Motor_L_B|Lift_Motor1Action
+    7401024: Motor_L_B|Lift_Stage2Action
+    7401026: Motor_L_B|Lift_Stage3Action
+    7401028: Motor_L_B|Skyrise Secton.001Action
+    7401030: Motor_L_B|Skyrise SectonAction
+    7401032: Cylinder.001|Arm BaseAction
+    7401034: Cylinder.001|Arm Clamp.002Action
+    7401036: Cylinder.001|Arm ClampAction
+    7401038: Cylinder.001|Arm EndAction
+    7401040: Cylinder.001|BlueAction
+    7401042: Cylinder.001|CubeAction
+    7401044: Cylinder.001|Inner Cups.001Action
+    7401046: Cylinder.001|Lift_Motor1Action
+    7401048: Cylinder.001|Lift_Stage2Action
+    7401050: Cylinder.001|Lift_Stage3Action
+    7401052: Cylinder.001|Skyrise Secton.001Action
+    7401054: Cylinder.001|Skyrise SectonAction
+    7401056: Motor.004|Arm BaseAction
+    7401058: Motor.004|Arm Clamp.002Action
+    7401060: Motor.004|Arm ClampAction
+    7401062: Motor.004|Arm EndAction
+    7401064: Motor.004|BlueAction
+    7401066: Motor.004|CubeAction
+    7401068: Motor.004|Inner Cups.001Action
+    7401070: Motor.004|Lift_Motor1Action
+    7401072: Motor.004|Lift_Stage2Action
+    7401074: Motor.004|Lift_Stage3Action
+    7401076: Motor.004|Skyrise Secton.001Action
+    7401078: Motor.004|Skyrise SectonAction
+    7401080: Motor_L_F|Arm BaseAction
+    7401082: Motor_L_F|Arm Clamp.002Action
+    7401084: Motor_L_F|Arm ClampAction
+    7401086: Motor_L_F|Arm EndAction
+    7401088: Motor_L_F|BlueAction
+    7401090: Motor_L_F|CubeAction
+    7401092: Motor_L_F|Inner Cups.001Action
+    7401094: Motor_L_F|Lift_Motor1Action
+    7401096: Motor_L_F|Lift_Stage2Action
+    7401098: Motor_L_F|Lift_Stage3Action
+    7401100: Motor_L_F|Skyrise Secton.001Action
+    7401102: Motor_L_F|Skyrise SectonAction
+    7401104: Cylinder.002|Arm BaseAction
+    7401106: Cylinder.002|Arm Clamp.002Action
+    7401108: Cylinder.002|Arm ClampAction
+    7401110: Cylinder.002|Arm EndAction
+    7401112: Cylinder.002|BlueAction
+    7401114: Cylinder.002|CubeAction
+    7401116: Cylinder.002|Inner Cups.001Action
+    7401118: Cylinder.002|Lift_Motor1Action
+    7401120: Cylinder.002|Lift_Stage2Action
+    7401122: Cylinder.002|Lift_Stage3Action
+    7401124: Cylinder.002|Skyrise Secton.001Action
+    7401126: Cylinder.002|Skyrise SectonAction
+    7401128: Motor.001|Arm BaseAction
+    7401130: Motor.001|Arm Clamp.002Action
+    7401132: Motor.001|Arm ClampAction
+    7401134: Motor.001|Arm EndAction
+    7401136: Motor.001|BlueAction
+    7401138: Motor.001|CubeAction
+    7401140: Motor.001|Inner Cups.001Action
+    7401142: Motor.001|Lift_Motor1Action
+    7401144: Motor.001|Lift_Stage2Action
+    7401146: Motor.001|Lift_Stage3Action
+    7401148: Motor.001|Skyrise Secton.001Action
+    7401150: Motor.001|Skyrise SectonAction
+    7401152: Motor_R_B|Arm BaseAction
+    7401154: Motor_R_B|Arm Clamp.002Action
+    7401156: Motor_R_B|Arm ClampAction
+    7401158: Motor_R_B|Arm EndAction
+    7401160: Motor_R_B|BlueAction
+    7401162: Motor_R_B|CubeAction
+    7401164: Motor_R_B|Inner Cups.001Action
+    7401166: Motor_R_B|Lift_Motor1Action
+    7401168: Motor_R_B|Lift_Stage2Action
+    7401170: Motor_R_B|Lift_Stage3Action
+    7401172: Motor_R_B|Skyrise Secton.001Action
+    7401174: Motor_R_B|Skyrise SectonAction
+    7401176: Cylinder.005|Arm BaseAction
+    7401178: Cylinder.005|Arm Clamp.002Action
+    7401180: Cylinder.005|Arm ClampAction
+    7401182: Cylinder.005|Arm EndAction
+    7401184: Cylinder.005|BlueAction
+    7401186: Cylinder.005|CubeAction
+    7401188: Cylinder.005|Inner Cups.001Action
+    7401190: Cylinder.005|Lift_Motor1Action
+    7401192: Cylinder.005|Lift_Stage2Action
+    7401194: Cylinder.005|Lift_Stage3Action
+    7401196: Cylinder.005|Skyrise Secton.001Action
+    7401198: Cylinder.005|Skyrise SectonAction
+    7401200: Motor.012|Arm BaseAction
+    7401202: Motor.012|Arm Clamp.002Action
+    7401204: Motor.012|Arm ClampAction
+    7401206: Motor.012|Arm EndAction
+    7401208: Motor.012|BlueAction
+    7401210: Motor.012|CubeAction
+    7401212: Motor.012|Inner Cups.001Action
+    7401214: Motor.012|Lift_Motor1Action
+    7401216: Motor.012|Lift_Stage2Action
+    7401218: Motor.012|Lift_Stage3Action
+    7401220: Motor.012|Skyrise Secton.001Action
+    7401222: Motor.012|Skyrise SectonAction
+    7401224: Motor_R_F|Arm BaseAction
+    7401226: Motor_R_F|Arm Clamp.002Action
+    7401228: Motor_R_F|Arm ClampAction
+    7401230: Motor_R_F|Arm EndAction
+    7401232: Motor_R_F|BlueAction
+    7401234: Motor_R_F|CubeAction
+    7401236: Motor_R_F|Inner Cups.001Action
+    7401238: Motor_R_F|Lift_Motor1Action
+    7401240: Motor_R_F|Lift_Stage2Action
+    7401242: Motor_R_F|Lift_Stage3Action
+    7401244: Motor_R_F|Skyrise Secton.001Action
+    7401246: Motor_R_F|Skyrise SectonAction
+    7401248: Cylinder.004|Arm BaseAction
+    7401250: Cylinder.004|Arm Clamp.002Action
+    7401252: Cylinder.004|Arm ClampAction
+    7401254: Cylinder.004|Arm EndAction
+    7401256: Cylinder.004|BlueAction
+    7401258: Cylinder.004|CubeAction
+    7401260: Cylinder.004|Inner Cups.001Action
+    7401262: Cylinder.004|Lift_Motor1Action
+    7401264: Cylinder.004|Lift_Stage2Action
+    7401266: Cylinder.004|Lift_Stage3Action
+    7401268: Cylinder.004|Skyrise Secton.001Action
+    7401270: Cylinder.004|Skyrise SectonAction
+    7401272: Motor.011|Arm BaseAction
+    7401274: Motor.011|Arm Clamp.002Action
+    7401276: Motor.011|Arm ClampAction
+    7401278: Motor.011|Arm EndAction
+    7401280: Motor.011|BlueAction
+    7401282: Motor.011|CubeAction
+    7401284: Motor.011|Inner Cups.001Action
+    7401286: Motor.011|Lift_Motor1Action
+    7401288: Motor.011|Lift_Stage2Action
+    7401290: Motor.011|Lift_Stage3Action
+    7401292: Motor.011|Skyrise Secton.001Action
+    7401294: Motor.011|Skyrise SectonAction
+    7401296: Reservoirs|Arm BaseAction
+    7401298: Reservoirs|Arm Clamp.002Action
+    7401300: Reservoirs|Arm ClampAction
+    7401302: Reservoirs|Arm EndAction
+    7401304: Reservoirs|BlueAction
+    7401306: Reservoirs|CubeAction
+    7401308: Reservoirs|Inner Cups.001Action
+    7401310: Reservoirs|Lift_Motor1Action
+    7401312: Reservoirs|Lift_Stage2Action
+    7401314: Reservoirs|Lift_Stage3Action
+    7401316: Reservoirs|Skyrise Secton.001Action
+    7401318: Reservoirs|Skyrise SectonAction
+    7401320: Wheel_L_B|Arm BaseAction
+    7401322: Wheel_L_B|Arm Clamp.002Action
+    7401324: Wheel_L_B|Arm ClampAction
+    7401326: Wheel_L_B|Arm EndAction
+    7401328: Wheel_L_B|BlueAction
+    7401330: Wheel_L_B|CubeAction
+    7401332: Wheel_L_B|Inner Cups.001Action
+    7401334: Wheel_L_B|Lift_Motor1Action
+    7401336: Wheel_L_B|Lift_Stage2Action
+    7401338: Wheel_L_B|Lift_Stage3Action
+    7401340: Wheel_L_B|Skyrise Secton.001Action
+    7401342: Wheel_L_B|Skyrise SectonAction
+    7401344: Wheel_L_F|Arm BaseAction
+    7401346: Wheel_L_F|Arm Clamp.002Action
+    7401348: Wheel_L_F|Arm ClampAction
+    7401350: Wheel_L_F|Arm EndAction
+    7401352: Wheel_L_F|BlueAction
+    7401354: Wheel_L_F|CubeAction
+    7401356: Wheel_L_F|Inner Cups.001Action
+    7401358: Wheel_L_F|Lift_Motor1Action
+    7401360: Wheel_L_F|Lift_Stage2Action
+    7401362: Wheel_L_F|Lift_Stage3Action
+    7401364: Wheel_L_F|Skyrise Secton.001Action
+    7401366: Wheel_L_F|Skyrise SectonAction
+    7401368: Wheel_R_B|Arm BaseAction
+    7401370: Wheel_R_B|Arm Clamp.002Action
+    7401372: Wheel_R_B|Arm ClampAction
+    7401374: Wheel_R_B|Arm EndAction
+    7401376: Wheel_R_B|BlueAction
+    7401378: Wheel_R_B|CubeAction
+    7401380: Wheel_R_B|Inner Cups.001Action
+    7401382: Wheel_R_B|Lift_Motor1Action
+    7401384: Wheel_R_B|Lift_Stage2Action
+    7401386: Wheel_R_B|Lift_Stage3Action
+    7401388: Wheel_R_B|Skyrise Secton.001Action
+    7401390: Wheel_R_B|Skyrise SectonAction
+    7401392: Wheel_R_F|Arm BaseAction
+    7401394: Wheel_R_F|Arm Clamp.002Action
+    7401396: Wheel_R_F|Arm ClampAction
+    7401398: Wheel_R_F|Arm EndAction
+    7401400: Wheel_R_F|BlueAction
+    7401402: Wheel_R_F|CubeAction
+    7401404: Wheel_R_F|Inner Cups.001Action
+    7401406: Wheel_R_F|Lift_Motor1Action
+    7401408: Wheel_R_F|Lift_Stage2Action
+    7401410: Wheel_R_F|Lift_Stage3Action
+    7401412: Wheel_R_F|Skyrise Secton.001Action
+    7401414: Wheel_R_F|Skyrise SectonAction
+    7401416: Posts.010|Arm BaseAction
+    7401418: Posts.010|Arm Clamp.002Action
+    7401420: Posts.010|Arm ClampAction
+    7401422: Posts.010|Arm EndAction
+    7401424: Posts.010|BlueAction
+    7401426: Posts.010|CubeAction
+    7401428: Posts.010|Inner Cups.001Action
+    7401430: Posts.010|Lift_Motor1Action
+    7401432: Posts.010|Lift_Stage2Action
+    7401434: Posts.010|Lift_Stage3Action
+    7401436: Posts.010|Skyrise Secton.001Action
+    7401438: Posts.010|Skyrise SectonAction
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

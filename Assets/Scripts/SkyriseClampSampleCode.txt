@@ -1,0 +1,108 @@
+//extra code for SkyriseClamp
+
+[System.Serializable]
+public class CopyTransform
+{
+    public Vector3 position;
+    public Quaternion rotation;
+    
+    public CopyTransform(Transform parent)
+    {
+        position = new Vector3(
+            parent.position.x,
+            parent.position.y,
+            parent.position.z);
+            
+        rotation = new Quaternion(
+            parent.rotation.x,
+            parent.rotation.y,
+            parent.rotation.z,
+            parent.rotation.w);
+    }
+}
+
+public class SkyriseClamp : MonoBehaviour
+{
+    bool hasSkyriseSection = false;
+    SkyriseSection capturedSkyrise = null;
+    
+    CopyTransform instantTransform; //for when we need to capture a skyrise and keep it with us
+    CopyTransform skyriseOffset;
+    
+    void Update()
+    {
+        switch(clampState)
+        {
+        case 0:
+            if(hasSkyriseSection)
+            {
+                ReleaseSkyrise(capturedSkyrise);
+            }
+            //if Input.skyriseClamp
+            //clampState = closing
+            break;
+            
+        case 1:
+            //if it's close to closed
+            //clampState = closed
+            break;
+            
+        case 2:
+            if(hasSkyriseSection)
+            {
+                //move sr section with this
+                
+            }
+            else
+            {
+                SkyriseSection sr = FieldElementManager.GetCapturableSkyrise();
+                if(sr != null)
+                {
+                    CaptureSkyrise(sr);
+                }
+            }
+            
+            break;
+            
+        case 3:
+            break;
+        }
+    }
+    
+    void CaptureSkyrise(SkyriseSection sr)
+    {
+        sr.Capture();
+        capturedSkyrise = sr;
+        hasSkyriseSection = true;
+        
+        instantTransform = new CopyTransform(transform);
+    }
+    
+    void ReleaseSkyrise(SkyriseSection sr)
+    {
+        sr.Release();
+        capturedSkyrise = null;
+        hasSkyriseSection = false;
+    }
+    
+    void OnTriggerEnter(Collider other)
+    {
+        //if a skyrise enters our trigger, it is capturable
+        if(clampState == (int) ClampStates.OPEN)
+        {
+            if(other.gameObject.tag == "Skyrise Section")
+            {
+                other.gameObject.GetComponent<SkyriseSection>().isCapturable = true;
+            }
+        }
+    }
+    
+    void OnTriggerExit(Collider other)
+    {
+        //if a skyrise exits our trigger, it is no longer capturable
+        if(other.gameObject.tag == "Skyrise Section")
+        {
+            other.gameObject.GetComponent<SkyriseSection>().isCapturable = false;
+        }
+    }
+}

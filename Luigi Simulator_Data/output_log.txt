@@ -1,0 +1,778 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Luigi Simulator_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Luigi Simulator_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Luigi Simulator_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Luigi Simulator_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Luigi Simulator_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Luigi Simulator_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Luigi Simulator_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Luigi Simulator_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Luigi Simulator_Data\Managed\XInputDotNetPure.dll (this message is harmless)
+Loading C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Luigi Simulator_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
+Platform assembly: C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Luigi Simulator_Data\Managed\XInputDotNetPure.dll (this message is harmless)
+Loading C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Luigi Simulator_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
+- Completed reload, in  0.121 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Luigi Simulator_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Luigi Simulator_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 51.690536 ms
+System memory in use before: 18.1 MB.
+System memory in use after: 18.1 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 896.
+Total: 2.429921 ms (FindLiveObjects: 0.241391 ms CreateObjectMapping: 0.167906 ms MarkObjects: 1.407293 ms  DeleteObjects: 0.604298 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1ae0 -> priority: 1 
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.592129 ms
+System memory in use before: 18.6 MB.
+System memory in use after: 16.7 MB.
+
+Unloading 104 unused Assets to reduce memory usage. Loaded Objects now: 1024.
+Total: 2.730018 ms (FindLiveObjects: 0.201569 ms CreateObjectMapping: 0.076358 ms MarkObjects: 1.235692 ms  DeleteObjects: 1.211471 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.190172 ms
+System memory in use before: 20.4 MB.
+System memory in use after: 20.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 323.
+Total: 0.766868 ms (FindLiveObjects: 0.047621 ms CreateObjectMapping: 0.029147 ms MarkObjects: 0.287370 ms  DeleteObjects: 0.400265 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 100c -> priority: 1 
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.915890 ms
+System memory in use before: 20.6 MB.
+System memory in use after: 20.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1027.
+Total: 2.335089 ms (FindLiveObjects: 0.177759 ms CreateObjectMapping: 0.091137 ms MarkObjects: 2.005024 ms  DeleteObjects: 0.056653 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 28.494001 ms
+System memory in use before: 18.6 MB.
+System memory in use after: 18.6 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 918.
+Total: 0.891669 ms (FindLiveObjects: 0.082516 ms CreateObjectMapping: 0.069379 ms MarkObjects: 0.371939 ms  DeleteObjects: 0.365370 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 21c0 -> priority: 1 
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Trigger Entered
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:131)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 131)
+
+Clamp is open
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerEnter(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:135)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 135)
+
+Trigger Exited
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SkyriseClamp:OnTriggerExit(Collider) (at C:\Users\BGR\Documents\Unity\Projects\LuigiSim\Assets\Scripts\SkyriseClamp.cs:147)
+ 
+(Filename: C:/Users/BGR/Documents/Unity/Projects/LuigiSim/Assets/Scripts/SkyriseClamp.cs Line: 147)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.449411 ms
+System memory in use before: 18.7 MB.
+System memory in use after: 16.7 MB.
+
+Unloading 104 unused Assets to reduce memory usage. Loaded Objects now: 1044.
+Total: 3.844604 ms (FindLiveObjects: 0.261917 ms CreateObjectMapping: 0.112895 ms MarkObjects: 1.608042 ms  DeleteObjects: 1.856001 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.093747 ms
+System memory in use before: 20.4 MB.
+System memory in use after: 20.3 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 342.
+Total: 2.735765 ms (FindLiveObjects: 0.093600 ms CreateObjectMapping: 0.046389 ms MarkObjects: 0.576382 ms  DeleteObjects: 2.012003 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 52c -> priority: 1 
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.036585 ms
+System memory in use before: 25.1 MB.
+System memory in use after: 20.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1046.
+Total: 1.073944 ms (FindLiveObjects: 0.107969 ms CreateObjectMapping: 0.059116 ms MarkObjects: 0.850205 ms  DeleteObjects: 0.054189 ms)
+
