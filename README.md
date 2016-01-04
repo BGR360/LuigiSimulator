@@ -15,13 +15,23 @@ The simulator was designed to be controlled using two Xbox 360 controllers, simi
 
 This is Luigi. He is pleased to meet you.
 
-<p align="center">
-  <img src="http://i.imgur.com/G0jQd7v.jpg" width="200"> <img src="http://i.imgur.com/5DJb3k1.jpg" width="200"> <img src="http://i.imgur.com/1NW5x03.jpg" width="200">
-</p>
+<img src="http://i.imgur.com/G0jQd7v.jpg" width="200"> <img src="http://i.imgur.com/5DJb3k1.jpg" width="200"> <img src="http://i.imgur.com/1NW5x03.jpg" width="200">
 
-<p align="center">
-  <img src="http://i.imgur.com/l7hxam4.jpg" width="200"> <img src="http://i.imgur.com/p1FfoIs.jpg" width="200"> <img src="http://i.imgur.com/aAVsDVF.jpg" width="200">
-</p>
+<img src="http://i.imgur.com/l7hxam4.jpg" width="200"> <img src="http://i.imgur.com/p1FfoIs.jpg" width="200"> <img src="http://i.imgur.com/aAVsDVF.jpg" width="200">
+
+### The Auton Killer
+
+When competition strikes, the 10-point bonus earned from winning the 15-second autonomous period can often be the deciding factor in a match. The Autonomous was where our bot really shone. The swinging arm design and vertical elevator lift allowed us to "park and score" skyrise pins for a total of **12 points** in the autonomous period.
+
+#### Autonomous Video Demonstration
+
+Here is the robot performing an 8-point autonomous (2 skyrise pins):
+
+[![Auton Video](http://img.youtube.com/vi/D42NXZmOWQk/0.jpg)](http://www.youtube.com/watch?v=D42NXZmOWQk)
+
+I do not have a video of the bot completing a full 12-point autonomous (2 skyrise pins + 1 skyrise block), but here is an animation of it that I made in Blender:
+
+[![Full Auton Demo](http://img.youtube.com/vi/h1dJypvh4AM/0.jpg)](http://www.youtube.com/watch?v=h1dJypvh4AM)
 
 
 
