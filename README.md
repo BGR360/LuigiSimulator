@@ -35,8 +35,12 @@ I exported the Inventor model to an STL file and imported it into Blender becaus
 
 So I had to meticulously remodel the whole robot in Blender using basic polygons in order to reduce the vertex count. That was... fun...
 
-<img src="http://i.imgur.com/9Fa1bty.png" width="200"> <img src="http://i.imgur.com/yJwj83T.png" width="200"> <img src="http://i.imgur.com/k27wcuT.png" width="200"> <img src="http://i.imgur.com/A5K3BxO.png" width="200">
+<p align="center">
+  <img src="http://i.imgur.com/9Fa1bty.png" width="250"> <img src="http://i.imgur.com/yJwj83T.png" width="250"> <img src="http://i.imgur.com/k27wcuT.png" width="250"> 
+</p>
 
-<img src="http://i.imgur.com/pdMr7aq.png" width="200"> <img src="http://i.imgur.com/YwNAbA0.png" width="200"> <img src="" width="200"> <img src="" width="200">
+<p align="center">
+  <img src="http://i.imgur.com/A5K3BxO.png" height="250"> <img src="http://i.imgur.com/YwNAbA0.png" height="250">
+</p>
 
 Once I had remodeled the bot, I performed the same process for the game field, the skyrise pins, and the cubes. I imported all of the Blender assets into Unity and began programming the simulator.
