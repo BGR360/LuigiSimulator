@@ -15,9 +15,13 @@ The simulator was designed to be controlled using two Xbox 360 controllers, simi
 
 This is Luigi. He is pleased to meet you.
 
-<img src="http://i.imgur.com/G0jQd7v.jpg" width="200"> <img src="http://i.imgur.com/5DJb3k1.jpg" width="200"> <img src="http://i.imgur.com/1NW5x03.jpg" width="200"> 
+<p align="center">
+  <img src="http://i.imgur.com/G0jQd7v.jpg" width="200"> <img src="http://i.imgur.com/5DJb3k1.jpg" width="200"> <img src="http://i.imgur.com/1NW5x03.jpg" width="200">
+</p>
 
-<img src="http://i.imgur.com/l7hxam4.jpg" width="200"> <img src="http://i.imgur.com/p1FfoIs.jpg" width="200"> <img src="http://i.imgur.com/aAVsDVF.jpg" width="200">
+<p align="center">
+  <img src="http://i.imgur.com/l7hxam4.jpg" width="200"> <img src="http://i.imgur.com/p1FfoIs.jpg" width="200"> <img src="http://i.imgur.com/aAVsDVF.jpg" width="200">
+</p>
 
 
 
@@ -48,4 +52,10 @@ So I had to meticulously remodel the whole robot in Blender using basic polygons
 
 Once I had remodeled the bot, I performed the same process for the game field, the skyrise pins, and the cubes. I imported all of the Blender assets into Unity and began programming the simulator.
 
-<img src="http://i.imgur.com/uWXOCkb.png" width="400">
+<p align="center">
+  <img src="http://i.imgur.com/uWXOCkb.png" width="400">
+</p>
+
+<p align="center">
+  <img src="http://i.imgur.com/i2ARfWk.png" width="400"> <img src="http://i.imgur.com/hc5jJxh.png" width="400">
+</p>
