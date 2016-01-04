@@ -24,13 +24,16 @@ This is Luigi. He is pleased to meet you.
 ## Modeling the Robot
 
 To create the model of the robot, I took *many* reference pictures of it and created a very rough model of the bot in Autodesk Inventor. 
+  
+<p align="center">
+  <img src="http://i.imgur.com/944g6OA.png" width="250"> <img src="http://i.imgur.com/QyqOb6q.png" width="250"> <img src="http://i.imgur.com/7U5WqDk.png" width="250"> 
+</p>
 
-<img src="http://i.imgur.com/944g6OA.png" width="200"> <img src="http://i.imgur.com/QyqOb6q.png" width="200"> <img src="http://i.imgur.com/7U5WqDk.png" width="200">
 
 I exported the Inventor model to an STL file and imported it into Blender because, for SOME REASON, Autodesk likes to export files with MILLIONS of vertices!! Not very good for a 30 fps robot simulator...
 
 <p align="center">
-  <img src="http://i.imgur.com/sdQqfC0.png" width="300"/>
+  <img src="http://i.imgur.com/sdQqfC0.png" width="300">
 </p>
 
 So I had to meticulously remodel the whole robot in Blender using basic polygons in order to reduce the vertex count. That was... fun...
@@ -44,3 +47,5 @@ So I had to meticulously remodel the whole robot in Blender using basic polygons
 </p>
 
 Once I had remodeled the bot, I performed the same process for the game field, the skyrise pins, and the cubes. I imported all of the Blender assets into Unity and began programming the simulator.
+
+<img src="http://i.imgur.com/uWXOCkb.png" width="400">
