@@ -5,6 +5,8 @@ A 3D Simulation of our 2015 VEX Skyrise Robot, Luigi. Created using Unity Game E
 
 [![Simulator Demo](http://img.youtube.com/vi/s_RUZVgpZfw/0.jpg)](http://www.youtube.com/watch?v=s_RUZVgpZfw)
 
+http://www.youtube.com/watch?v=s_RUZVgpZfw
+
 ## Overview
 
 I made this simulator for the 2015 VEX National competition in Council Bluffs, Iowa. It is a simulator of Team 2360N's robot, dubbed "Luigi."
@@ -31,9 +33,13 @@ Here is the robot performing an 8-point autonomous (2 skyrise pins):
 
 [![Auton Video](http://img.youtube.com/vi/D42NXZmOWQk/0.jpg)](http://www.youtube.com/watch?v=D42NXZmOWQk)
 
+http://www.youtube.com/watch?v=D42NXZmOWQk
+
 I do not have a video of the bot completing a full 12-point autonomous (2 skyrise pins + 1 skyrise block), but here is an animation of it that I made in Blender:
 
 [![Full Auton Demo](http://img.youtube.com/vi/h1dJypvh4AM/0.jpg)](http://www.youtube.com/watch?v=h1dJypvh4AM)
+
+http://www.youtube.com/watch?v=h1dJypvh4AM
 
 
 
