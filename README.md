@@ -1,4 +1,4 @@
-# LuigiSimulator
+# Luigi Simulator: VEX Skyrise Team 2360N
 A 3D Simulation of our 2015 VEX Skyrise Robot, Luigi. Created using Unity Game Engine, Blender, and Autodesk Inventor.
 
 ## Demo Video
@@ -9,7 +9,9 @@ A 3D Simulation of our 2015 VEX Skyrise Robot, Luigi. Created using Unity Game E
 
 I made this simulator for the 2015 VEX National competition in Council Bluffs, Iowa. It is a simulator of Team 2360N's robot, dubbed "Luigi."
 
-The simulator was designed to be controlled using two Xbox 360 controllers, similar to how Luigi was actually controlled on the field with two VEX controllers. The controls in the simulator work identically to the controls of the real robot.
+The simulator was designed to be controlled using two Xbox 360 controllers, similar to how Luigi was actually controlled on the field with two VEX controllers. The controls in the simulator work identically to the controls of the real robot. I used the [XInputDotNet library](https://github.com/speps/XInputDotNet) to be able to interface with the Xbox 360 controllers.
+
+Since this is a Unity project, the actual code that I wrote can be found in the [Scripts folder](Assets/Scripts). Keep in mind that some of these files were auto-generated and hence not written by me.
 
 ## The Robot
 
