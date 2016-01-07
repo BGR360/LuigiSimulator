@@ -3,7 +3,7 @@ A 3D Simulation of our 2015 VEX Skyrise Robot, Luigi. Created using Unity Game E
 
 ## Demo Video
 
-[![Simulator Demo](http://img.youtube.com/vi/s_RUZVgpZfw/0.jpg)](http://www.youtube.com/watch?v=s_RUZVgpZfw)
+[![Simulator Demo](http://gph.is/1ODc9Fr)](http://www.youtube.com/watch?v=s_RUZVgpZfw)
 
 http://www.youtube.com/watch?v=s_RUZVgpZfw
 
