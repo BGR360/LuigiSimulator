@@ -37,7 +37,7 @@ http://www.youtube.com/watch?v=D42NXZmOWQk
 
 I do not have a video of the bot completing a full 12-point autonomous (2 skyrise pins + 1 skyrise block), but here is an animation of it that I made in Blender:
 
-[![Full Auton Demo](http://img.youtube.com/vi/h1dJypvh4AM/0.jpg)](http://www.youtube.com/watch?v=h1dJypvh4AM)
+[![Full Auton Demo](http://i.imgur.com/Ztz7Bcd.gif)](http://www.youtube.com/watch?v=h1dJypvh4AM)
 
 http://www.youtube.com/watch?v=h1dJypvh4AM
 
