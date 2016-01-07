@@ -31,7 +31,7 @@ When competition strikes, the 10-point bonus earned from winning the 15-second a
 
 Here is the robot performing an 8-point autonomous (2 skyrise pins):
 
-[![Auton Video](http://img.youtube.com/vi/D42NXZmOWQk/0.jpg)](http://www.youtube.com/watch?v=D42NXZmOWQk)
+[![Auton Video](http://i.imgur.com/X9ktHvX.gif)](http://www.youtube.com/watch?v=D42NXZmOWQk)
 
 http://www.youtube.com/watch?v=D42NXZmOWQk
 
